@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <p class="view"><a href="https://github.com/vtran20">View My GitHub Profile</a></p>
+        <p class="view"><a href="https://www.linkedin.com/in/vuktx">View My LinkedIn Profile</a></p>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+    </div>
+
+    <footer>
+      <p><small>Hosted on GitHub Pages</small></p>
+    </footer>
+  </body>
+</html>
