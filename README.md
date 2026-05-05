@@ -18,8 +18,8 @@ My happy place is where **enterprise architecture meets practical product buildi
 
 ### 🔗 Quick Links
 
-[![Open Resume](https://img.shields.io/badge/Open%20Resume-About%20Me%20%26%20Background-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://vtran20.github.io/RESUME.html)
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/vu_tran_resume_general.pdf)
+[![Open Resume](https://img.shields.io/badge/Open%20Resume-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/Vu%20Tran%20-%20Resume.pdf)
+[![KLA Resume](https://img.shields.io/badge/KLA%20Resume-PDF-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/Vu%20Tran%20-%20KLA%20Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
 
@@ -136,8 +136,8 @@ The company/client work I can talk about safely is usually around **enterprise e
 
 ## ☕ Let's Connect
 
-[![Open Resume](https://img.shields.io/badge/Open%20Resume-About%20Me%20%26%20Background-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://vtran20.github.io/RESUME.html)
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/vu_tran_resume_general.pdf)
+[![Open Resume](https://img.shields.io/badge/Open%20Resume-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/Vu%20Tran%20-%20Resume.pdf)
+[![KLA Resume](https://img.shields.io/badge/KLA%20Resume-PDF-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/Vu%20Tran%20-%20KLA%20Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
 
