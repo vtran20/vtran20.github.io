@@ -1,6 +1,10 @@
 # Hey, I'm Vu Tran 👋
 
-### I build serious software, but I try not to take the README too seriously.
+### My favorite software is simple, boring in the right places, and easy to understand.
+
+**My #1 rule:** keep it simple. Simple means **less code**, less code means **fewer bugs**, and fewer bugs mean **less maintenance**. Everything else is a bonus feature.
+
+I build serious software, but I try not to take the README too seriously.
 
 I have been building software professionally **since 2002**, which means I have seen a lot: classic Java web apps, enterprise platforms, eCommerce engines, production deployments, integrations that had to work yesterday, and modern full-stack projects that are much nicer to look at.
 
@@ -25,47 +29,58 @@ My happy place is where **enterprise architecture meets practical product buildi
 
 ---
 
-## 🧰 My Toolbox
+## 🧰 Skills I Actually Use
 
-### Languages I Reach For
+I do not believe a profile needs every tool I have ever touched. Here are the strongest signals from my skill list, organized by how I tend to build things.
+
+### Simple First, Language Second
 
 These days, with AI helping translate ideas into code, the language is not always the main character anymore. The real magic is understanding the problem, designing the system, asking better questions, and knowing when the code is telling the truth.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20%2F%20jQuery-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Expert-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-Expert-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### Backend, Enterprise & Architecture
+### Backend, Enterprise & Integration
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![J2EE](https://img.shields.io/badge/J2EE-Enterprise%20Architecture-orange?style=flat-square)
-![JSP](https://img.shields.io/badge/JSP%20%2F%20Servlets-Web%20Apps-blue?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-Service%20Design-005571?style=flat-square)
-![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Full Stack Java](https://img.shields.io/badge/Full%20Stack%20Java-Expert-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend%20Services-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Expert-005571?style=flat-square)
+![Integration](https://img.shields.io/badge/Integration-Expert-2E8B57?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-Expert-000000?style=flat-square&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-Expert-FF6600?style=flat-square)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Intermediate-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Frontend, Mobile & Product UI
+### AI, Automation & Data
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive%20UI-Useful%20and%20Clean-0A66C2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Expert-8A2BE2?style=flat-square)
+![AI Code Assistant](https://img.shields.io/badge/AI%20Code%20Assistant-Expert-111827?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Intermediate-6B46C1?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-Intermediate-6B46C1?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-0A66C2?style=flat-square)
 
-### Cloud, Search, DevOps & Integrations
+### Cloud, Delivery & Real-World Operations
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Solr](https://img.shields.io/badge/Apache%20Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
-![Lucene](https://img.shields.io/badge/Lucene-Search%20Engineering-005571?style=flat-square)
-![SAP](https://img.shields.io/badge/SAP-Integration-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Payments](https://img.shields.io/badge/Payment%20Systems-Enterprise%20Integration-2E8B57?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-IoT%20Messaging-660066?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Intermediate-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Intermediate-0A66C2?style=flat-square)
+![Apache](https://img.shields.io/badge/Apache-14%20Years-D22128?style=flat-square&logo=apache&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Intermediate-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+### Domains & Teamwork
+
+![Retail](https://img.shields.io/badge/Retail-Expert-blue?style=flat-square)
+![Healthcare](https://img.shields.io/badge/Healthcare-Intermediate-2E8B57?style=flat-square)
+![Global Teams](https://img.shields.io/badge/Global%20Teams-Expert%20%7C%2020%20Years-8A2BE2?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-Intermediate-2E8B57?style=flat-square)
+![English](https://img.shields.io/badge/English-Expert-0A66C2?style=flat-square)
+![Vietnamese](https://img.shields.io/badge/Vietnamese-Expert-DA251D?style=flat-square)
 
 ---
 
@@ -101,16 +116,7 @@ These days, with AI helping translate ideas into code, the language is not alway
 ## 📊 GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vtran20&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Vu Tran GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtran20&layout=compact&hide_border=true&langs_count=8" alt="Vu Tran top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=vtran20&hide_border=true" alt="Vu Tran GitHub streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vtran20&hide_border=true&theme=minimal" alt="Vu Tran GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com?user=vtran20&hide_border=true&card_width=520" alt="Vu Tran total contributions, current streak, and longest streak" />
 </p>
 
 ---
@@ -119,8 +125,6 @@ These days, with AI helping translate ideas into code, the language is not alway
 
 [![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add%20Your%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
