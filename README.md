@@ -97,7 +97,9 @@ These days, with AI helping translate ideas into code, the language is not alway
 
 ---
 
-## 🚀 Projects I Like Showing People
+## 🚀 Personal Projects I Like Showing People
+
+These are my **personal projects**, built outside company/client work. I usually do not list company projects publicly unless they are already public and approved. For professional work, I prefer to describe the architecture, responsibilities, and impact without exposing confidential details.
 
 | Project | What It Does | Built With |
 | --- | --- | --- |
@@ -110,6 +112,10 @@ These days, with AI helping translate ideas into code, the language is not alway
 ### More Experiments
 
 [poker](https://github.com/vtran20/poker) · [smarthome](https://github.com/vtran20/smarthome) · [openhap2](https://github.com/vtran20/openhap2)
+
+### Professional Work Themes
+
+The company/client work I can talk about safely is usually around **enterprise eCommerce**, **Java modernization**, **multi-tenant architecture**, **SAP/payment integrations**, **search platforms**, **production operations**, and **global delivery leadership**.
 
 ---
 
