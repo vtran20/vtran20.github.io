@@ -16,12 +16,6 @@ My happy place is where **enterprise architecture meets practical product buildi
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Ideas%20to%20Production-8A2BE2?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Ready-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🔗 Quick Links
-
-[![Open Resume](https://img.shields.io/badge/Open%20Resume-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/Vu%20Tran%20-%20Resume.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
-
 ---
 
 ## 🧑‍💻 About Me, But Short
@@ -130,14 +124,6 @@ The company/client work I can talk about safely is usually around **enterprise e
 <p>
   <img src="https://streak-stats.demolab.com?user=vtran20&hide_border=true&card_width=520" alt="Vu Tran total contributions, current streak, and longest streak" />
 </p>
-
----
-
-## ☕ Let's Connect
-
-[![Open Resume](https://img.shields.io/badge/Open%20Resume-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://vtran20.github.io/output/pdf/Vu%20Tran%20-%20Resume.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
 
 ---
 
