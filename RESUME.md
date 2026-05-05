@@ -2,7 +2,9 @@
 
 Senior Full Stack Software Engineer | Enterprise Java Architect | AI-Aware Builder
 
-[About Me](https://vtran20.github.io/) | [GitHub](https://github.com/vtran20) | [LinkedIn](https://www.linkedin.com/in/vuktx)
+Ann Arbor, MI | 734 353 2648 | vtran20@gmail.com
+
+About Me: https://vtran20.github.io/ | GitHub: https://github.com/vtran20 | LinkedIn: https://www.linkedin.com/in/vuktx/
 
 ---
 
@@ -61,3 +63,9 @@ Strong fit for full-stack engineering teams that need reliable software componen
 - [nailsPOS](https://github.com/vtran20/nailsPOS) / [NailsManagementSystem](https://github.com/vtran20/NailsManagementSystem) - Nail salon POS and operations platform.
 
 More work is available on [GitHub](https://github.com/vtran20).
+
+---
+
+## Education
+
+Ho Chi Minh City University of Technology
