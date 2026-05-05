@@ -129,6 +129,7 @@ The company/client work I can talk about safely is usually around **enterprise e
 
 ## ☕ Let's Connect
 
+[![About Me](https://img.shields.io/badge/About%20Me-Resume%20%26%20Background-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://vtran20.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
 

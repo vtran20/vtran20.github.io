@@ -1,5 +1,5 @@
 ---
-title: Vu Tran
+title: About Me
 ---
 
-{% include_relative README.md %}
+{% include_relative RESUME.md %}
