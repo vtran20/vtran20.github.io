@@ -1,14 +1,14 @@
 # Hey, I'm Vu Tran 👋
 
-### My favorite software is simple, boring in the right places, and easy to understand.
+### I turn messy ideas into simple software, then try to automate the boring parts.
 
 **My #1 rule:** keep it simple. Simple means **less code**, less code means **fewer bugs**, and fewer bugs mean **less maintenance**. Everything else is a bonus feature.
 
-I build serious software, but I try not to take the README too seriously.
+I build serious software, but I refuse to make the README wear a tie.
 
-I have been building software professionally **since 2002**, which means I have seen a lot: classic Java web apps, enterprise platforms, eCommerce engines, production deployments, integrations that had to work yesterday, and modern full-stack projects that are much nicer to look at.
+I have been building software professionally **since 2002**, which means I have survived classic Java web apps, enterprise platforms, eCommerce engines, production deployments, integrations that had to work yesterday, and modern full-stack projects that are much nicer to look at.
 
-My happy place is where **enterprise architecture meets practical product building**: clean backend services, useful frontends, reliable deployments, and systems that make life easier for real users.
+My happy place is where **enterprise architecture meets practical product building**: clean backend services, useful frontends, reliable deployments, and systems that make life easier for real users. Bonus points if I can script something so I never have to do it manually twice.
 
 ![Java](https://img.shields.io/badge/Java-Since%202002-red?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend%20Fuel-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -16,22 +16,28 @@ My happy place is where **enterprise architecture meets practical product buildi
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Ideas%20to%20Production-8A2BE2?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Ready-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### 🔗 Quick Links
+
+[![Resume](https://img.shields.io/badge/Resume-About%20Me%20%26%20Background-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://vtran20.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
+
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me, But Short
 
-- I started coding professionally in **2002** and still enjoy learning new tools, patterns, and better ways to ship software.
-- I have deep experience in **Java, J2EE, Spring, Spring Boot, Hibernate, Tomcat, Linux, AWS, Solr, Lucene, SAP integration, and payment systems**.
-- I have spent many years in **eCommerce**, building platforms that need to be scalable, maintainable, and business-friendly.
-- I am comfortable working across **onshore/offshore teams**, client communication, technical leadership, production support, and build/release ownership.
-- I am proudly lazy in the best engineering way: if something can be automated, scripted, generated, scheduled, or simplified, I probably want to build that helper.
-- I like systems that are simple to operate, clear to explain, and strong enough to survive real-world traffic.
+- Coding professionally since **2002**. Still learning. Still simplifying. Still suspicious of code that looks too clever.
+- Deep experience with **Java, J2EE, Spring, Spring Boot, Hibernate, Tomcat, Linux, AWS, Solr, Lucene, SAP integration, and payment systems**.
+- Many years in **eCommerce**, where “it works on my machine” is not a strategy.
+- Comfortable with **onshore/offshore teams**, client communication, technical leadership, production support, and build/release ownership.
+- Proudly lazy in the best engineering way: if something can be automated, scripted, generated, scheduled, or simplified, I probably want to build that helper.
+- I like systems that are simple to operate, easy to explain, and strong enough to survive real users doing real-user things.
 
 ---
 
 ## 🧰 Skills I Actually Use
 
-I do not believe a profile needs every tool I have ever touched. Here are the strongest signals from my skill list, organized by how I tend to build things.
+I do not believe a profile needs every tool I have ever touched. Nobody needs a museum of keywords. Here are the tools and skills that best explain how I build.
 
 ### Simple First, Language Second
 
@@ -89,11 +95,11 @@ These days, with AI helping translate ideas into code, the language is not alway
 | Chapter | What I Worked On |
 | --- | --- |
 | **2002+** | Started building professional software with Java, web applications, databases, and object-oriented design. |
-| **Enterprise Java Years** | Delivered production systems with JSP, Servlets, Spring, Hibernate, EJB, portals, portlets, internationalization, and locale-aware architecture. |
-| **eCommerce Mode** | Built and led eCommerce platforms where performance, search, checkout, integrations, and reliability all matter. |
+| **Enterprise Java Years** | Shipped production systems with JSP, Servlets, Spring, Hibernate, EJB, portals, portlets, internationalization, and locale-aware architecture. |
+| **eCommerce Mode** | Built and led eCommerce platforms where search, checkout, integrations, and reliability all have opinions. |
 | **Build & Release Life** | Worked deeply with Linux, Tomcat, production environments, release processes, and keeping deployments calm. |
 | **Integration Work** | Connected systems with SAP, payment platforms, search engines, cloud services, and multi-tenant architecture. |
-| **Still Building** | Creating Spring Boot APIs, React apps, Expo mobile tools, IoT experiments, POS systems, and practical side projects. |
+| **Still Building** | Creating Spring Boot APIs, React apps, Expo mobile tools, IoT experiments, POS systems, and practical side projects because apparently I relax by building more software. |
 
 ---
 
@@ -103,11 +109,11 @@ These are my **personal projects**, built outside company/client work. I usually
 
 | Project | What It Does | Built With |
 | --- | --- | --- |
-| [cuoi5s](https://github.com/vtran20/cuoi5s) | A multi-tenant eCommerce boilerplate for running multiple storefronts from one codebase. | Java, JavaScript, CSS, HTML, SCSS, Docker |
-| [image-server](https://github.com/vtran20/image-server) | Upload images, then resize, crop, and transform them through dynamic URLs. Handy, fast, and very practical. | Java, JavaScript, HTML, CSS, Docker |
+| [cuoi5s](https://github.com/vtran20/cuoi5s) | A multi-tenant eCommerce boilerplate for running multiple storefronts from one codebase, because copying the same app five times is how sadness starts. | Java, JavaScript, CSS, HTML, SCSS, Docker |
+| [image-server](https://github.com/vtran20/image-server) | Upload images, then resize, crop, and transform them through dynamic URLs. Small idea, big “why did I do this manually before?” energy. | Java, JavaScript, HTML, CSS, Docker |
 | [finance](https://github.com/vtran20/finance) | A Spring Boot finance/trading app for stock tracking, price analysis, simulated trade workflows, REST APIs, and UI. | Java, Spring Boot, HTML, CSS |
-| [GarageStorage](https://github.com/vtran20/GarageStorage) | A local-first Expo mobile app for garage organization with barcode scanning, SQLite, lookup, backup, and export. | TypeScript, Expo, SQLite |
-| [nailsPOS](https://github.com/vtran20/nailsPOS) + [NailsManagementSystem](https://github.com/vtran20/NailsManagementSystem) | A nail salon operations platform with POS, check-in, appointments, services, employees, customers, and payments. | React, Redux, JavaScript, Spring Boot, Java |
+| [GarageStorage](https://github.com/vtran20/GarageStorage) | A local-first Expo mobile app for garage organization with barcode scanning, SQLite, lookup, backup, and export. Built because finding stuff should not be an adventure. | TypeScript, Expo, SQLite |
+| [nailsPOS](https://github.com/vtran20/nailsPOS) + [NailsManagementSystem](https://github.com/vtran20/NailsManagementSystem) | A nail salon operations platform with POS, check-in, appointments, services, employees, customers, and payments. Business workflows, but less chaos. | React, Redux, JavaScript, Spring Boot, Java |
 
 ### More Experiments
 
@@ -115,7 +121,7 @@ These are my **personal projects**, built outside company/client work. I usually
 
 ### Professional Work Themes
 
-The company/client work I can talk about safely is usually around **enterprise eCommerce**, **Java modernization**, **multi-tenant architecture**, **SAP/payment integrations**, **search platforms**, **production operations**, and **global delivery leadership**.
+The company/client work I can talk about safely is usually around **enterprise eCommerce**, **Java modernization**, **multi-tenant architecture**, **SAP/payment integrations**, **search platforms**, **production operations**, and **global delivery leadership**. The public version: I help large systems become less scary.
 
 ---
 
@@ -129,7 +135,7 @@ The company/client work I can talk about safely is usually around **enterprise e
 
 ## ☕ Let's Connect
 
-[![About Me](https://img.shields.io/badge/About%20Me-Resume%20%26%20Background-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://vtran20.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-About%20Me%20%26%20Background-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://vtran20.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-vtran20-181717?style=for-the-badge&logo=github)](https://github.com/vtran20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vuktx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vuktx)
 
