@@ -8,22 +8,19 @@ About Me: https://vtran20.github.io/ | GitHub: https://github.com/vtran20 | Link
 
 ---
 
-## Summary
+## Professional Summary
 
-Senior software engineer building production software since **2002**, with deep experience in **Java, full-stack web development, enterprise systems, data integration, and eCommerce platforms**. I enjoy hard technical problems, but my engineering style is simple: make systems easy to understand, easy to test, easy to operate, and boring in the places where boring is good.
-
-Strong fit for full-stack engineering teams that need reliable software components, practical architecture, clear communication, and hands-on delivery across the software lifecycle: requirements, design, coding, tuning, testing, documentation, deployment, and support.
+Senior software engineer building production software since **2002**, with deep experience in **Java, full-stack web development, enterprise systems, eCommerce platforms, integrations, and production operations**. I like software that is simple, easy to understand, easy to test, and easy to maintain.
 
 ---
 
-## Strengths Relevant To KLA
+## Professional Strengths
 
-- **Full-stack delivery:** Java/Spring Boot backends, REST APIs, SQL, JavaScript/TypeScript, React/Next.js, HTML/CSS.
-- **Reliable software design:** object-oriented design, J2EE architecture, maintainable components, integration-heavy systems.
-- **Data and storage:** SQL, PL/SQL, data integration, data migration, data mapping, JSON/XML, analytics-oriented workflows.
-- **Production mindset:** Linux, Tomcat, Apache, Docker, CI/CD, build/release ownership, troubleshooting, and support.
-- **Agile collaboration:** onshore/offshore delivery, US client communication, technical leadership, documentation, and team coordination.
-- **AI and automation:** recent focus on AI-assisted development, RAG, prompt engineering, context engineering, and workflow automation.
+- **Enterprise engineering:** Java, Spring Boot, J2EE, REST APIs, integration-heavy systems, and production support.
+- **Full-stack delivery:** React, Next.js, TypeScript, JavaScript/jQuery, HTML/CSS, SQL-backed workflows.
+- **Business systems:** eCommerce, retail, multi-tenant architecture, search, checkout, payment, SAP integration.
+- **Delivery leadership:** Agile teams, onshore/offshore collaboration, US client communication, build/release ownership.
+- **Automation mindset:** simplify repeated work with scripts, tools, AI assistants, RAG, and context engineering.
 
 ---
 
@@ -39,30 +36,27 @@ Strong fit for full-stack engineering teams that need reliable software componen
 
 **DevOps / Tools:** Git, GitHub, Docker, CI/CD, Linux/Ubuntu, Apache, Tomcat, AWS
 
-**AI / Analytics:** RAG, AI code assistants, prompt engineering, context engineering, Python, data analysis
-
 ---
 
 ## Experience Highlights
 
-- Built and supported enterprise Java applications and full-stack web systems for retail, eCommerce, and integration-heavy environments.
-- Designed multi-tenant systems and backend services where reliability, maintainability, and operational clarity mattered.
-- Delivered customer-facing software involving search, checkout, payment, SAP integration, REST APIs, and database-backed workflows.
-- Worked with distributed Agile teams across onshore/offshore models, translating business needs into practical technical designs.
-- Owned build/release and production-support responsibilities in Linux, Apache, Tomcat, Docker, and CI/CD environments.
-- Continued expanding into AI-assisted software development and automation to reduce repetitive work and improve engineering speed.
+- Built and modernized enterprise Java applications, full-stack web systems, and integration-heavy business platforms.
+- Designed multi-tenant and eCommerce systems with attention to scalability, maintainability, search, checkout, and payment workflows.
+- Led technical delivery across onshore/offshore teams with clear communication, documentation, and release discipline.
+- Supported production systems and build/release processes across Linux, Apache, Tomcat, Docker, CI/CD, and AWS environments.
+- Recently focused on AI-assisted engineering, RAG, prompt/context engineering, and automation to reduce repetitive work.
 
 ---
 
 ## Selected Personal Projects
 
-- [cuoi5s](https://github.com/vtran20/cuoi5s) - Multi-tenant eCommerce boilerplate.
-- [image-server](https://github.com/vtran20/image-server) - Image upload and dynamic transformation service.
-- [finance](https://github.com/vtran20/finance) - Spring Boot finance/trading workflow app.
-- [GarageStorage](https://github.com/vtran20/GarageStorage) - Local-first Expo app for garage inventory.
-- [nailsPOS](https://github.com/vtran20/nailsPOS) / [NailsManagementSystem](https://github.com/vtran20/NailsManagementSystem) - Nail salon POS and operations platform.
+- **cuoi5s** - Multi-tenant eCommerce boilerplate.
+- **image-server** - Image upload and dynamic transformation service.
+- **finance** - Spring Boot finance/trading workflow app.
+- **GarageStorage** - Local-first Expo app for garage inventory.
+- **nailsPOS / NailsManagementSystem** - Nail salon POS and operations platform.
 
-More work is available on [GitHub](https://github.com/vtran20).
+More work is available on GitHub: https://github.com/vtran20
 
 ---
 
