@@ -131,4 +131,4 @@ The company/client work I can talk about safely is usually around **enterprise e
 
 > Make it useful. Keep it understandable. Ship it with care. Then learn something and make the next version better.
 
-Also: automate the boring parts whenever possible. Future me deserves nice things.
+Also: automate the boring parts whenever possible. Future me deserves nice things :).
